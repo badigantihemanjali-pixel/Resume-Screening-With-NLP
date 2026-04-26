@@ -81,5 +81,7 @@ Improve ranking algorithm with semantic similarity scoring.
 ## 👨‍💻 Author
 
 Developed by **Badiganti  Hemanjali**
+
 GitHub: https://github.com/badigantihemanjali-pixel
+
 LinkedIn: https://www.linkedin.com/in/hemanjali-badiganti-0a3bb3266
