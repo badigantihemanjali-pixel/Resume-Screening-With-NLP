@@ -47,7 +47,7 @@ Upload datasets:
 - Accuracy comparison graph for all models.  
 - Confusion matrix for the best model.  
 
-### Step 8 – Final Deployment (Optional)  
+### Step 8 – Final Deployment
 - Deploy as a **Streamlit Web App** or on **Hugging Face Spaces**.  
 
 ---
@@ -80,8 +80,6 @@ Improve ranking algorithm with semantic similarity scoring.
 
 ## 👨‍💻 Author
 
-Developed by **Sriram Chowdary Velidi**
-
-- [LinkedIn](https://linkedin.com/in/sriram-chowdary-velidi-5500bb221)  
-- [GitHub](https://github.com/Vsriram181)
-
+Developed by **Badiganti  Hemanjali**
+GitHub: https://github.com/badigantihemanjali-pixel
+LinkedIn: https://www.linkedin.com/in/hemanjali-badiganti-0a3bb3266
